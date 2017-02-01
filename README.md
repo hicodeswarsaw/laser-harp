@@ -54,7 +54,8 @@ Instructions: https://www.arduino.cc/en/Guide/Libraries#toc4
 <b> Buildin the circuit </b>
 
 This is an easy circuit to assemble using a solderless breadboard. 
-Hook up the resistors, photoresistors and piezo speaker as shown in the illustration below, using jumper wires to connect each sensor circuit to the analog inputs on your Arduino.
+Hook up the resistors, photoresistors and piezo speaker as shown in the illustration in folder (circuit.png) , using jumper wires to connect each sensor circuit to the analog inputs on your Arduino.
+
 
 <b> Programming the Arduino </b>
 
