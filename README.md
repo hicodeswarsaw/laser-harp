@@ -58,7 +58,7 @@ Hook up the resistors, photoresistors and piezo speaker as shown in the illustra
 
 <b> Programming the Arduino </b>
 
-Next we’ll upload the Arduino sketch to the device. Connectyour Arduino to your computer using a USB  cable and make sure the right board and serial port are selected (see the appropriate “Getting Started” section for your operating system: http://arduino.cc/en/Guide/HomePage).
+Next we’ll upload the Arduino sketch (laser.harp.ino) to the device. Connectyour Arduino to your computer using a USB  cable and make sure the right board and serial port are selected (see the appropriate “Getting Started” section for your operating system: http://arduino.cc/en/Guide/HomePage).
 
 Open the “LaserHarp.ino” file with your Arduino software and upload it to the board.
 Some LEDs should blink on the Arduino board, and after a few moments, you should see “Done Uploading” in the console area of the Arduino software. 
